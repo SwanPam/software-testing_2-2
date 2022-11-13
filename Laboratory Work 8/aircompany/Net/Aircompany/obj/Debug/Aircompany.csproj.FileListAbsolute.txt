@@ -1,0 +1,7 @@
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe.config
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\bin\Debug\Aircompany.pdb
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.AssemblyReference.cache
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\obj\Debug\Aircompany.exe
+D:\Study\Тестирование ПО\TEST-PO\LABA8\aircompany\Net\Aircompany\obj\Debug\Aircompany.pdb
